@@ -16,7 +16,7 @@ return(
     <div className="container">
         <p className="heading">Random Quote Generator</p>
     <p className="paragraph">{quote}</p>
-   <button onClick={generateQuote} className="button">Click</button>
+   <button onClick={generateQuote} className="button">Generate new fact</button>
     </div>
 
     </>
