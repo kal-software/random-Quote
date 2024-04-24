@@ -1,4 +1,8 @@
-.container{
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*.container{
   background-color:rgb(86, 19, 19);
   width:400px;
   padding:10px 10px;
@@ -38,3 +42,4 @@
   background-color:tomato;
   color: white;
 }
+*/
